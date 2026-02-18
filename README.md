@@ -21,6 +21,7 @@
 
 ## Current Projects
 
+- 📊 **[AgentMeter](https://github.com/Real-Pixeldrop/agent-meter)** - Know what your AI agents actually cost you. Menu bar app for real-time AI spending tracking.
 - 🧠 **[Asriel](https://github.com/Real-Pixeldrop/asriel)** - LegalTech SaaS powered by AI. Making legal workflows faster and smarter.
 - 🎯 **[Try Before](https://github.com/Real-Pixeldrop/fit-check)** - Virtual try-on experience. See it before you buy it.
 - 🏢 **[Pixel Space](https://github.com/Real-Pixeldrop/pixel-space)** - WordPress plugin for managing client sites at scale (status, updates, backups).
