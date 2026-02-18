@@ -1,6 +1,6 @@
 # Hi, I'm Mr Pixel 🧊
 
-📍 Paris, France | 🤖 AI & Automation Builder | 🚀 Founder @ [Pixel Drop](https://pixel-drop.com)
+📍 **Paris, France** | 🤖 **AI & Automation Builder** | 🚀 **Founder @ [Pixel Drop](https://pixel-drop.com)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -17,16 +17,16 @@
 
 > Building AI agents and automations at full speed. After years of web dev, I went all-in on AI-powered tools and business automation. I help companies stop wasting time on repetitive tasks.
 
-🌐 [pixel-drop.com](https://pixel-drop.com) — AI automation agency for SMBs
+🌐 **[pixel-drop.com](https://pixel-drop.com)** — AI automation agency for SMBs
 
 ## Current Projects
 
-- 🧠 [Asriel](https://github.com/Real-Pixeldrop/asriel) - LegalTech SaaS powered by AI. Making legal workflows faster and smarter.
-- 🎯 [Try Before](https://github.com/Real-Pixeldrop/fit-check) - Virtual try-on experience. See it before you buy it.
-- 🏢 [Pixel Space](https://github.com/Real-Pixeldrop/pixel-space) - WordPress plugin for managing client sites at scale (status, updates, backups).
-- 🧮 [Calculateur Automatisation](https://github.com/Real-Pixeldrop/calculateur-automatisation) - Find out how much your manual tasks really cost you.
-- 💃 [Plaza Tango Generator](https://github.com/Real-Pixeldrop/plaza-tango-generator) - Marketing content generator for Festival Plaza Tango 2026.
-- 📈 [DerniereDispo Dashboard](https://github.com/Real-Pixeldrop/derniere-dispo-dashboard) - Growth dashboard tracking 400+ venues.
+- 🧠 **[Asriel](https://github.com/Real-Pixeldrop/asriel)** - LegalTech SaaS powered by AI. Making legal workflows faster and smarter.
+- 🎯 **[Try Before](https://github.com/Real-Pixeldrop/fit-check)** - Virtual try-on experience. See it before you buy it.
+- 🏢 **[Pixel Space](https://github.com/Real-Pixeldrop/pixel-space)** - WordPress plugin for managing client sites at scale (status, updates, backups).
+- 🧮 **[Calculateur Automatisation](https://github.com/Real-Pixeldrop/calculateur-automatisation)** - Find out how much your manual tasks really cost you.
+- 💃 **[Plaza Tango Generator](https://github.com/Real-Pixeldrop/plaza-tango-generator)** - Marketing content generator for Festival Plaza Tango 2026.
+- 📈 **[DerniereDispo Dashboard](https://github.com/Real-Pixeldrop/derniere-dispo-dashboard)** - Growth dashboard tracking 400+ venues.
 
 ## What I Do
 
@@ -40,6 +40,6 @@ Client has a problem → I automate it → They save hours every week
 
 ## Get in Touch
 
-- 🌐 [pixel-drop.com](https://pixel-drop.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/akli-goudjil/)
+- 🌐 **[pixel-drop.com](https://pixel-drop.com)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/akli-goudjil/)**
 - 📧 contact@pixel-drop.com
