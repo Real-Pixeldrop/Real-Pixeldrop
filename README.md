@@ -41,5 +41,5 @@ Client has a problem → I automate it → They save hours every week
 ## Get in Touch
 
 - 🌐 **[pixel-drop.com](https://pixel-drop.com)**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/akli-goudjil/)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/akli-goudjil-casta%C3%B1eda-47a3211b7/)**
 - 📧 contact@pixel-drop.com
