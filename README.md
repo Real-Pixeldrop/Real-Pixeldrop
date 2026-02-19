@@ -28,6 +28,7 @@
 - 🧮 **[Calculateur Automatisation](https://github.com/Real-Pixeldrop/calculateur-automatisation)** - Find out how much your manual tasks really cost you.
 - 💃 **[Plaza Tango Generator](https://github.com/Real-Pixeldrop/plaza-tango-generator)** - Marketing content generator for Festival Plaza Tango 2026.
 - 📈 **[DerniereDispo Dashboard](https://github.com/Real-Pixeldrop/derniere-dispo-dashboard)** - Growth dashboard tracking 400+ venues.
+- 🔍 **[EventCheck](https://github.com/Real-Pixeldrop/eventcheck)** - Never show up to the wrong event again. Double-verifies event dates from URLs (Eventbrite, Meetup, Billetweb).
 
 ## What I Do
 
