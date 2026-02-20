@@ -9,6 +9,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -21,6 +22,7 @@
 
 ## Current Projects
 
+- 📋 **[ClipBoard](https://github.com/Real-Pixeldrop/clipboard)** - Lightweight macOS menu bar clipboard manager. Keeps your last 10 copied items accessible.
 - 🔍 **[EventCheck](https://github.com/Real-Pixeldrop/eventcheck)** - Never show up to the wrong event again. Double-verifies event dates from URLs (Eventbrite, Meetup, Billetweb).
 - 📊 **[AgentMeter](https://github.com/Real-Pixeldrop/agent-meter)** - Know what your AI agents actually cost you. Menu bar app for real-time AI spending tracking.
 - 🧠 **[Asriel](https://github.com/Real-Pixeldrop/asriel)** - LegalTech SaaS powered by AI. Making legal workflows faster and smarter.
