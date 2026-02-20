@@ -22,6 +22,7 @@
 
 ## Current Projects
 
+- 👁️ **[HiddenToggle](https://github.com/Real-Pixeldrop/hidden-toggle)** - Toggle hidden files in Finder with one click. No more terminal commands.
 - 📋 **[ClipBoard](https://github.com/Real-Pixeldrop/clipboard)** - Lightweight macOS menu bar clipboard manager. Keeps your last 10 copied items accessible.
 - 🔍 **[EventCheck](https://github.com/Real-Pixeldrop/eventcheck)** - Never show up to the wrong event again. Double-verifies event dates from URLs (Eventbrite, Meetup, Billetweb).
 - 📊 **[AgentMeter](https://github.com/Real-Pixeldrop/agent-meter)** - Know what your AI agents actually cost you. Menu bar app for real-time AI spending tracking.
