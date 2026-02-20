@@ -22,6 +22,7 @@
 
 ## Current Projects
 
+- 🎙️ **[VoiceCloneMemo](https://github.com/Real-Pixeldrop/voice-clone-memo)** - Clone your voice, type text, get audio memos in your voice.
 - ✂️ **[TaskSplitter](https://github.com/Real-Pixeldrop/task-splitter)** - AI-powered task decomposition. Split any task into actionable subtasks recursively.
 - 👁️ **[HiddenToggle](https://github.com/Real-Pixeldrop/hidden-toggle)** - Toggle hidden files in Finder with one click. No more terminal commands.
 - 📋 **[ClipBoard](https://github.com/Real-Pixeldrop/clipboard)** - Lightweight macOS menu bar clipboard manager. Keeps your last 10 copied items accessible.
